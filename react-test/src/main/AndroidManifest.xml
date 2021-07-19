@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="live.test.react_test">
+
+    <application>
+        <activity
+            android:name="live.test.react_test.MyReactActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.MyApplicationReact.NoActionBar"></activity>
+    </application>
+
+</manifest>

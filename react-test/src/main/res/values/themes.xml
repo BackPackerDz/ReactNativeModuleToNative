@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.MyApplicationReact.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MyApplicationReact.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MyApplicationReact.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

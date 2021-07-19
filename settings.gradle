@@ -1,0 +1,4 @@
+//include ':react-test-debug'
+include ':react-test'
+include ':app'
+rootProject.name = "My ApplicationReact"
